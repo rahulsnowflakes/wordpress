@@ -1,0 +1,4 @@
+html[invert]:not([style-scope]):not(.style-scope) {
+    --yt-brand-paper-button-color: hsl(0, 100%, 50%);
+    --yt-brand-color: hsl(0, 100%, 50%);
+}
